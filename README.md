@@ -59,7 +59,7 @@ This project was originally developed as a semester project to practice:
   <li>Install JDK 8+</li>
   <li>Download and add JavaFX libraries</li>
   <li>Import the project into your IDE</li>
-  <li>Run <code>Main.java</code></li>
+  <li>Run <code>SmartposApp.java</code></li>
 </ol>
 
 <hr/>
