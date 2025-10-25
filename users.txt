@@ -1,0 +1,2 @@
+sameer,sameer123,Administrator,Admin,sameerirfangaba@gmail.com,2025-10-25
+admin,admin123,Administrator,Admin,admin@smartpos.com,2025-06-06

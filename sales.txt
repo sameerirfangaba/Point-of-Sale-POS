@@ -1,0 +1,6 @@
+Wheat Flour (1kg)|Cooking Oil (1L)|Tea Packets,4|6|3,955.0,2025-06-07,,,,,0.0,Cash,RCPT-1749304235824
+Wheat Flour (1kg)|Salt|Tea Packets|Sugar (1kg),10|5|5|5,1500.0,2025-06-07,,,,,0.0,Credit Card,RCPT-1749322223999
+Tea Packets|Cooking Oil (1L)|Salt,10|5|5,1600.0,2025-06-08,,,,,0.0,Credit Card,RCPT-1749377140792
+Sugar (1kg)|Tea Packets|Wheat Flour (1kg),5|11|5,650.0,2025-06-08,,,,,50.0,Credit Card,RCPT-1749378445974
+Sugar (1kg),5,225.0,2025-06-20,,,,,0.0,Credit Card,RCPT-1750390853586
+Rice (1kg)|Salt|Tea Packets,5|10|5,1875.0,2025-06-29,,,,,0.0,Cash,RCPT-1751185416693

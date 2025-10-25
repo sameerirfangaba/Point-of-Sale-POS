@@ -1,0 +1,2 @@
+Supplies,300.0,2025-06-02,Cartage
+Electricity,500.0,2025-06-29,df
